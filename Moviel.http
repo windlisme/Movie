@@ -1,0 +1,6 @@
+@Moviel_HostAddress = http://localhost:5105
+
+GET {{Moviel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
