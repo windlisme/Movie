@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Long\\source\\repos\\Movielll - Copy (3)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A72C46-BFB4-42A2-B35F-76B78DC1DE7D}|Moviel\\Moviel.csproj|c:\\users\\long\\source\\repos\\movielll - copy (3)\\moviel\\models\\authmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A72C46-BFB4-42A2-B35F-76B78DC1DE7D}|Moviel\\Moviel.csproj|solutionrelative:moviel\\models\\authmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A72C46-BFB4-42A2-B35F-76B78DC1DE7D}|Moviel\\Moviel.csproj|c:\\users\\long\\source\\repos\\movielll - copy (3)\\moviel\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A72C46-BFB4-42A2-B35F-76B78DC1DE7D}|Moviel\\Moviel.csproj|solutionrelative:moviel\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A72C46-BFB4-42A2-B35F-76B78DC1DE7D}|Moviel\\Moviel.csproj|c:\\users\\long\\source\\repos\\movielll - copy (3)\\moviel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A72C46-BFB4-42A2-B35F-76B78DC1DE7D}|Moviel\\Moviel.csproj|solutionrelative:moviel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A72C46-BFB4-42A2-B35F-76B78DC1DE7D}|Moviel\\Moviel.csproj|c:\\users\\long\\source\\repos\\movielll - copy (3)\\moviel\\moviel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1A72C46-BFB4-42A2-B35F-76B78DC1DE7D}|Moviel\\Moviel.csproj|solutionrelative:moviel\\moviel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthModels.cs",
+              "DocumentMoniker": "C:\\Users\\Long\\source\\repos\\Movielll - Copy (3)\\Moviel\\Models\\AuthModels.cs",
+              "RelativeDocumentMoniker": "Moviel\\Models\\AuthModels.cs",
+              "ToolTip": "C:\\Users\\Long\\source\\repos\\Movielll - Copy (3)\\Moviel\\Models\\AuthModels.cs",
+              "RelativeToolTip": "Moviel\\Models\\AuthModels.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T03:25:08.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Long\\source\\repos\\Movielll - Copy (3)\\Moviel\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Moviel\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Long\\source\\repos\\Movielll - Copy (3)\\Moviel\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Moviel\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T03:22:02.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Long\\source\\repos\\Movielll - Copy (3)\\Moviel\\Program.cs",
+              "RelativeDocumentMoniker": "Moviel\\Program.cs",
+              "ToolTip": "C:\\Users\\Long\\source\\repos\\Movielll - Copy (3)\\Moviel\\Program.cs",
+              "RelativeToolTip": "Moviel\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:10:58.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Moviel.csproj",
+              "DocumentMoniker": "C:\\Users\\Long\\source\\repos\\Movielll - Copy (3)\\Moviel\\Moviel.csproj",
+              "RelativeDocumentMoniker": "Moviel\\Moviel.csproj",
+              "ToolTip": "C:\\Users\\Long\\source\\repos\\Movielll - Copy (3)\\Moviel\\Moviel.csproj",
+              "RelativeToolTip": "Moviel\\Moviel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T16:35:49.58Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
